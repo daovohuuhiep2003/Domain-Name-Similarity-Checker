@@ -1,4 +1,6 @@
 # Src: https://github.com/endgameinc/homoglyph.git
+<span style="color: red;">This is a course project for NT230 - Adversarial Defense: DGA-Based Botnets and DNS Homographs Detection Through Integrated Deep Learning.</span>
+DOI: 10.1109/TEM.2021.3059664
 
 # Detecting Homoglyph Attacks with a Siamese Neural Network
 This is sample code for training the siamese neural network and comparing it to edit distance based techniques.  
@@ -65,5 +67,3 @@ Simply run the python code like:
 ```
 python run_siamese.py
 ```
-<span style="color: red;">This is a course project for NT230 - Adversarial Defense: DGA-Based Botnets and DNS Homographs Detection Through Integrated Deep Learning.</span>
-DOI: 10.1109/TEM.2021.3059664
